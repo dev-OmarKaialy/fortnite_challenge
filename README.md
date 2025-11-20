@@ -64,9 +64,9 @@ flutter run -d <device>
 
 ## ScreenShots
 <p align="justify">
-  <img src="screenshots/login.png" alt="Search Screen" width="45%" />
-  <img src="screenshots/skin1.png" alt="Wishlist Screen" width="45%" />
-  <img src="screenshots/skin2.png" alt="Wishlist Screen" width="45%" />
+  <img src="screenshots/login.png" alt="Login Screen" width="45%" />
+  <img src="screenshots/skin1.png" alt="Skin1 Screen" width="45%" />
+  <img src="screenshots/skin2.png" alt="Skin2 Screen" width="45%" />
 </p>
 
 ## Animated Demo
